@@ -29,7 +29,7 @@ information updating feature.
 
 ## Contributors:
 
-1.[ Niraj Kumar Gupta](https://github.com/Niraj-Gupta26/)\
+1.[ Roshni Mandal](https://github.com/Roshni-Mandal/)\
 2.[ Arpit Gupta](https://github.com/Arpitgupta1014)\
 3.[ Ravi kumar Sah](https://github.com/ravi92647)\
 4.[ Sorya Mittal](https://github.com/Shorya269)
